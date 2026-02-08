@@ -1,0 +1,4 @@
+# Ignore large Jupyter notebooks kept locally
+10-Statistik-PYT-10-12-S489.ipynb
+jupy-installation-python-vscode.ipynb
+Test_Aufgaben.ipynb
