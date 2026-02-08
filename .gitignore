@@ -2,3 +2,28 @@
 10-Statistik-PYT-10-12-S489.ipynb
 jupy-installation-python-vscode.ipynb
 Test_Aufgaben.ipynb
+
+# Ignore large task folders kept locally
+Aufgabenserie-01/
+Aufgabenserie-02/
+Aufgabenserie-03/
+Aufgabenserie-04/
+Aufgabenserie-05/
+Aufgabenserie-06/
+Aufgabenserie-07/
+Aufgabenserie-08/
+Aufgabenserie-09/
+Aufgabenserie-10/
+Aufgabenserie-11/
+Aufgabenserie-12/
+Aufgabenserie-13/
+Cheat-Sheet/
+Datenvernetzung/
+Demo-Beispiele/
+Motivationsaufgabe/
+Motorüberwachung/
+Projektarbeit/
+Prüfung LAP 25.11.24/
+Prüfung Statistik 18.09.24/
+Prüfung-3-Aufgaben-Daten-Einschätzung/
+Python der Grundkurs/
