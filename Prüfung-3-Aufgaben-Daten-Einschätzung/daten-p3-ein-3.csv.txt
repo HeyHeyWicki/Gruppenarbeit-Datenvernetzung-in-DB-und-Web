@@ -1,0 +1,13 @@
+
+
+Zeitstempel,Sensor-ID,Standort,Messwert(°C),Status
+2023-10-01 09:00,S1,Raum 101,22.5,normal
+2023-10-01 09:05,S2,Flur,21.8,normal
+2023-10-01 09:10,S1,Raum 101,25.0,error
+2023-10-01 09:15,S3,Raum 102,19.5,normal
+2023-10-01 09:20,S2,Flur,27.3,error
+2023-10-01 09:25,S1,Raum 101,22.9,normal
+2023-10-01 09:30,S3,Raum 102,20.1,normal
+2023-10-01 09:35,S2,Flur,21.4,normal
+2023-10-01 09:40,S1,Raum 101,22.7,normal
+2023-10-01 09:45,S3,Raum 102,30.2,error
